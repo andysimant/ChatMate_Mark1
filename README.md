@@ -1,1 +1,2 @@
-# ChatMate_Mark1
+# ChatMate_Mark
+This is a demo chat app.
